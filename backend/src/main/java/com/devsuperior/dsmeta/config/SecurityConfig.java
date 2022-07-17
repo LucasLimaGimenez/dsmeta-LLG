@@ -1,4 +1,4 @@
-package com.sistemaVendas.config;
+package com.devsuperior.dsmeta.config;
 
 import java.util.Arrays;
 
